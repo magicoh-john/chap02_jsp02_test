@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-  <h2>동료가 추가한 파일</h2>
+  <h2>동료가 추가한 파일-1</h2>
 </body>
 </html>
